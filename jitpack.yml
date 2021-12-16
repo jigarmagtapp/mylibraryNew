@@ -1,3 +1,3 @@
 install: 
 FILE="-Dfile=app-release.aar" 
-mvn install:install-file $FILE -DgroupId=com.github.jigarmagtapp -DartifactId=mylibrarynew -Dversion=1.0.3 -Dpackaging=aar -DpomFile=pom.xml
+mvn install:install-file $FILE -DgroupId=com.github.jigarmagtapp -DartifactId=mylibrarynew -Dversion=1.0.5 -Dpackaging=aar -DpomFile=pom.xml
