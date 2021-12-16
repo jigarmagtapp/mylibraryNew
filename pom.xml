@@ -17,5 +17,15 @@
       <artifactId>material</artifactId>
       <version>1.4.0</version>
     </dependency>
+	<dependency>
+      <groupId>androidx.core</groupId>
+      <artifactId>core-ktx</artifactId>
+      <version>1.0.2</version>
+    </dependency>
+	<dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib</artifactId>
+      <version>1.4.21</version>
+    </dependency>
   </dependencies>
 </project>
